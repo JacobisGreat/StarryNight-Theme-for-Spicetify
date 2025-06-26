@@ -7,39 +7,21 @@ A beautiful animated starry night theme for Spotify that transforms your music e
 - 🌌 **Animated starry night background** with gradient sky
 - ⭐ **Twinkling stars** with randomized animations
 - 🌠 **Shooting star effects** that streak across the screen
-- 🎨 **7 gorgeous color schemes** to choose from
+- 🎨 **Beautiful dark blue starry night theme**
 - 🔋 **Performance optimized** - animations pause when tabbed out
 - 📱 **Clean interface** - preserves default Spotify layout while adding cosmic beauty
 - 🎵 **Background-only design** - doesn't interfere with sidebar or playback controls
 
-## 🎨 Color Schemes
+## 🎨 Color Scheme
 
 | Scheme | Description |
 |--------|-------------|
 | **Base** | Classic dark blue starry night |
-| **Cotton-candy** | Pink and purple gradient dream |
-| **Forest** | Dark green nature theme |
-| **Galaxy** | Purple space nebula |
-| **Orange** | Warm orange sunset |
-| **Sky** | Light blue daytime sky |
-| **Sunrise** | Red and orange morning glow |
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ### Base
 ![Base](images/base.png)
-### Cotton Candy
-![Cotton-candy](images/cotton-candy.png)
-### Forest
-![Forest](images/forest.png)
-### Galaxy
-![Galaxy](images/galaxy.png)
-### Orange
-![Orange](images/orange.png)
-### Sky
-![Sky](images/sky.png)
-### Sunrise
-![Sunrise](images/sunrise.png)
 
 ## 🚀 Installation
 
@@ -84,13 +66,13 @@ A beautiful animated starry night theme for Spotify that transforms your music e
 
 ## 🎛️ Customization
 
-### Changing Color Schemes
+### Using the Theme
 ```bash
-spicetify config color_scheme [scheme_name]
+spicetify config color_scheme Base
 spicetify apply
 ```
 
-Available schemes: `Base`, `Cotton-candy`, `Forest`, `Galaxy`, `Orange`, `Sky`, `Sunrise`
+Available scheme: `Base`
 
 ### Performance Settings
 The theme automatically pauses animations when Spotify is not in focus (tabbed out) to save system resources. This behavior is built-in and requires no configuration.
